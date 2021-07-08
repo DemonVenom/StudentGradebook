@@ -23,41 +23,44 @@ Part 5. Create a test program that creates a course and assign exactly 4 student
 
 Sample output:
 
-Anne Jones
- 12345
- axs345@psu.edu
- Grades: 85.0 97.0 86.0 92.0
+	Anne Jones
+	 12345
+	 axs345@psu.edu
+	 Grades: 85.0 97.0 86.0 92.0
 
-Amy Brown
- 23456
- axs345@psu.edu
- Grades: 72.0 81.0 86.0 90.0
+	Amy Brown
+	 23456
+	 axs345@psu.edu
+	 Grades: 72.0 81.0 86.0 90.0
 
-John White
- 34567
- axs345@psu.edu
- Grades: 60.0 75.0 86.0 90.0
+	John White
+	 34567
+	 axs345@psu.edu
+	 Grades: 60.0 75.0 86.0 90.0
 
-Ben Cartwright
- 45678
- axs345@psu.edu
- Grades: 90.0 87.0 82.0 79.0
+	Ben Cartwright
+	 45678
+	 axs345@psu.edu
+	 Grades: 90.0 87.0 82.0 79.0
 
 
-Lab Average: 76.8
-Midterm Average: 85.0
-Essay Average: 85.0
-Final Average: 87.8
-Lab Highest: 90.0
-Midterm Highest: 97.0
-Essay Highest: 86.0
-Final Highest: 92.0
-Lab Lowest: 60.0
-Midterm Lowest: 75.0
-Essay Lowest: 82.0
-Final Lowest: 79.0
-Student 1 Cumulative Average: 90.9
-Student 2 Cumulative Average: 82.9
-Student 3 Cumulative Average: 78.7
-Student 4 Cumulative Average: 84.2
-Class Average: 84.2
+	Lab Average: 76.8
+	Midterm Average: 85.0
+	Essay Average: 85.0
+	Final Average: 87.8
+	Lab Highest: 90.0
+	Midterm Highest: 97.0
+	Essay Highest: 86.0
+	Final Highest: 92.0
+	Lab Lowest: 60.0
+	Midterm Lowest: 75.0
+	Essay Lowest: 82.0
+	Final Lowest: 79.0
+	Student 1 Cumulative Average: 90.9
+	Student 2 Cumulative Average: 82.9
+	Student 3 Cumulative Average: 78.7
+	Student 4 Cumulative Average: 84.2
+	Class Average: 84.2
+
+
+
